@@ -14,8 +14,8 @@ const sendEmail = async (req, callback)=>{
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-            user: 'adolfo.kuhlman@ethereal.email',
-            pass: 'kHQHE4k6sQeVdNgfdM'
+            user: 'EMAIL PROVIDED BY ETHEREAT',
+            pass: 'PASS PROVIDED BY ETHEREAL'
         },
       });
 
